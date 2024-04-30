@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FireLogin</string>
+    <string name="imagen">ImagenLogin</string>
+    <string name="firelogin">FireLoginTitle</string>
+    <string name="registrate">Registrate</string>
+    <string name="loginBtn">Login</string>
+    <string name="logoutTitle">Logout</string>
+    <string name="signupBtn">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_with_phone">Login with Phone</string>
+    <string name="default_web_client_id">653041569222-gqqdde9ddee2ub0dihvce4f4hjprqv93.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">429444833063469</string>
+    <string name="fb_login_protocol_scheme">fb429444833063469</string>
+    <string name="facebook_client_token">718437e32eaab3d895827a42e00c03a4</string>
+
+
+</resources>
